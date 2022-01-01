@@ -15,3 +15,15 @@ ensure Place-framework
 ensure esx_menu_dialog
 
 ensure esx_menu_default
+
+
+
+Odpalanie:
+
+F1 - respienie pojazdów
+
+F7 - tepanie arenki
+
+F10 - menu gracza
+
+F2 - noclip
